@@ -1,0 +1,24 @@
+{
+  "name": "vue-adsense",
+  "version": "1.0.0",
+  "description": "Google Adsense for Vue",
+  "main": "main.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/darrynten/vue-adsense.git"
+  },
+  "keywords": [
+    "vue",
+    "vuejs",
+    "adsense",
+    "ads",
+    "vue2",
+    "google"
+  ],
+  "author": "Darryn Ten",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/darrynten/vue-adsense/issues"
+  },
+  "homepage": "https://github.com/darrynten/vue-adsense#readme"
+}
