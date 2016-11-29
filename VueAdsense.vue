@@ -30,19 +30,8 @@ export default {
       default: 'display: block'
     }
   },
-  created() {
-    console.log('created')
-  },
   mounted() {
     (window.adsbygoogle = window.adsbygoogle || []).push({})
-  },
-  destroyed() {
-    console.log('destroyed')
-  },
-  computed: {
-    visible() {
-      return true
-    }
   }
 }
 </script>
