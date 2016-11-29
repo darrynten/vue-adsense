@@ -38,8 +38,8 @@ And put into your DOM
   ad-client="ca-pub-xxxxxxxxxxxxxxxx"
   ad-slot="XXXXXXXX"
   ad-style="display: block"
-  ad-format="auto"
-  ></adsense>
+  ad-format="auto">
+</adsense>
 </div>
 ```
 
@@ -49,3 +49,8 @@ And put into your DOM
 * ad-slot - The desired ad ID
 * ad-style - Any special styling you want
 * ad-format - Provided by Google, is usually 'auto'
+
+#### Notes
+
+Contributions welcome, enjoy the component
+
