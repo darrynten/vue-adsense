@@ -1,4 +1,5 @@
 # Google Adsense for Vue
+https://badge.fury.io/js/vue-adsense.svg
 #### vue-adsense
 
 A simple Vue component for handling Google Ads
