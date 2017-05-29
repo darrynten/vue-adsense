@@ -1,2 +1,3 @@
 import VueAdsense from './VueAdsense.vue'
-module.exports = VueAdsense
+
+export default VueAdsense;
