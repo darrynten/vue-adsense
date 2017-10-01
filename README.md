@@ -40,7 +40,6 @@ And put into your DOM
   ad-style="display: block"
   ad-format="auto">
 </adsense>
-</div>
 ```
 
 ## Values
