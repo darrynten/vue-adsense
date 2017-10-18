@@ -2,7 +2,6 @@
   <ins class="adsbygoogle"
     :data-ad-client="adClient"
     :data-ad-slot="adSlot"
-    :data-ad-format="adFormat"
     :style="adStyle"></ins>
 </template>
 
@@ -16,11 +15,6 @@ export default {
     adSlot: {
       type: String,
       required: true
-    },
-    adFormat: {
-      type: String,
-      required: false,
-      default: 'auto'
     },
     adStyle: {
       type: String,
